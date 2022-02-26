@@ -1,0 +1,71 @@
+
+img {
+  float: left;
+  height: 350px;
+  padding-right: 53px;
+  top: 100px;
+  width: 250px;
+  left: 50px;
+  
+}
+  .image-block {
+    height: 70px;
+    font-size: 5px;
+    padding-left: 10px;
+    left: 20px;
+  }
+  
+ body {
+   background-color: greenyellow
+ }
+  h1 {color: blue;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 20px;
+    border: 350px;
+  }
+  p {
+   font-size: 25px;
+   top: 10px;
+   border: 10px;
+   
+  }
+  .list {
+    color:black;  
+
+    ol {
+      font-size: 20px;
+      
+    }
+    
+
+   
+  
+  
+   
+     
+    
+ 
+ 
+   
+ 
+  
+  
+
+    
+
+
+
+ 
+ 
+
+
+  
+
+
+  
+
+
+
+
+
