@@ -1,0 +1,32 @@
+body{
+  font-size: 15px;  
+  font-weight: normal;
+  letter-spacing: 1px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  width: 50%;
+  line-height: 25px;
+  background-color: aqua;
+}
+
+.camarão{
+    margin:0 auto;
+}
+
+h1, h2, h3 {
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+nav{
+    border-bottom: 2px gold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+   table, th, td {
+  border: 1px;
+   }
+   footer, aside {
+      border-color: burlywood; 
+   }
+   h1 {
+       color: blue;
+   }
